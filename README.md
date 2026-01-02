@@ -16,8 +16,11 @@
 ## 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditiguin/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+   <a href="mailto:aditiguin29@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
 </p>
 
