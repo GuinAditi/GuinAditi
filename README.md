@@ -2,8 +2,15 @@
 
 ---
 
-✨ Fun fact: I treat bugs as plot twists in my code journey 😄  
+✨ Fun fact: I value consistency more than perfection — progress matters most.
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Build.+Break.+Debug.;Consistent+Learner.;Future+Software+Engineer" />
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
