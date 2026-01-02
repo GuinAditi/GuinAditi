@@ -23,15 +23,11 @@
   <a href="https://dev.to/" target="_blank">
     <img src="https://img.icons8.com/color/48/dev.png"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png"/>
-  </a>
+ >
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
-  </a>
+  
 </p>
 ## 🛠 Languages and Tools:
 
