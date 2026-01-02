@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditi Guin</h1>
 
 
+## 📈 My Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuinAditi&bg_color=0d1117&color=ff4d6d&line=f9d423&point=ffffff&area=true&hide_border=true" />
+</p>
+
+
+
 ---
 
 ✨ Fun fact: I treat bugs as plot twists in my code journey 😄  
