@@ -3,7 +3,13 @@
 ---
 
 ✨ Fun fact: I value consistency more than perfection — progress matters most.
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Build.+Break.+Debug.;Consistent+Learner.;Future+Software+Engineer" />
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
+</p>
 
 
 <h3 align="center">
