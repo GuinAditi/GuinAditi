@@ -27,3 +27,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,cpp,git,github,linux,figma" />
 </p>
+
+## 📈 My Contribution Activity
+
+![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuinAditi&theme=react-dark)
+
