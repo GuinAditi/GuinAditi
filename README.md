@@ -1,32 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditi Guin</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
+
+---
+
+✨ Fun fact: I treat bugs as plot twists in my code journey 😄  
+
+---
+
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GuinAditi&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" 
-    height="160"
-  />
+  <img src="https://streak-stats.demolab.com?user=GuinAditi&theme=dark&hide_border=true" />
 </p>
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=GuinAditi&theme=dark&hide_border=true" 
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuinAditi&show_icons=true&theme=dark&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuinAditi&layout=compact&theme=dark&hide_border=true" />
+</p>
+## 🔗 Connect with me:
 
+<p align="left">
+  <a href="https://dev.to/" target="_blank">
+    <img src="https://img.icons8.com/color/48/dev.png"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png"/>
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+  </a>
+</p>
+## 🛠 Languages and Tools:
 
-<!--
-**GuinAditi/GuinAditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,cpp,git,github,linux,figma" />
+</p>
