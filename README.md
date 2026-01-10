@@ -2,7 +2,7 @@
 
 ---
 
-✨ Personal Philosophy:: I value consistency more than perfection — progress matters most.
+✨ Personal Philosophy: I value consistency more than perfection — progress matters most.
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Build.+Break.+Debug.;Consistent+Learner.;Future+Software+Engineer" />
 </h3>
