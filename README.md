@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aditi Guin</h1> 
-
 ---
 
 ✨ Personal Philosophy: I value consistency more than perfection — progress matters most.
